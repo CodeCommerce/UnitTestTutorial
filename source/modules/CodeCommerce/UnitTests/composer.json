@@ -1,0 +1,15 @@
+{
+    "name": "codecommerce/unittests",
+    "description": "Modul zum testen von Units",
+    "version": "1.0.0",
+    "homepage": "https://www.codecommerce.de/",
+    "support": {
+        "email": "chris@codecommerce.de",
+        "homepage": "https://www.codecommerce.de"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeCommerce\\UnitTests\\": "../../../source/modules/CodeCommerce/UnitTests"
+        }
+    }
+}
